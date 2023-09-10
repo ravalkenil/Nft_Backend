@@ -4,3 +4,4 @@ module.exports = function (deployer) {
     const tx=deployer.deploy(NFT);
     console.log(tx);
 }
+// -------
